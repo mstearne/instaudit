@@ -1,0 +1,22 @@
+{
+  "name": "instaudit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "content-disposition": "^0.5.1",
+    "express": "^4.13.4",
+    "google": "^1.4.0",
+    "moment": "^2.11.1",
+    "openurl": "^1.1.1",
+    "screenshooter": "^0.3.2",
+    "twitter": "^1.2.5",
+    "wikiscraper": "^1.0.0"
+  }
+}
