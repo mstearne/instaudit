@@ -14,6 +14,7 @@
     "express": "^4.13.4",
     "google": "^1.4.0",
     "moment": "^2.11.1",
+    "node-screenshot": "^0.1.1",
     "openurl": "^1.1.1",
     "screenshooter": "^0.3.2",
     "twitter": "^1.2.5",

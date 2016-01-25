@@ -35,3 +35,7 @@ node_modules
 env.js
 
 *.sublime-workspace
+*.sublime-project
+
+screenshots
+
