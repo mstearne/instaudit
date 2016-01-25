@@ -1,3 +1,4 @@
+require("./env.js");
 /// Scan URL for analytics code
 
 "use strict";

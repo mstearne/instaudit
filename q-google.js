@@ -1,3 +1,4 @@
+require("./env.js");
 var google = require('google')
  
 

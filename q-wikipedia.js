@@ -1,3 +1,4 @@
+require("./env.js");
 var WikiScraper = require("wikiscraper");
  
 // var wikiscraper = new WikiScraper([
